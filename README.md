@@ -1,7 +1,6 @@
 # BoardGame
-
-# BoardgameListingWebApp
-
+#For deployment && VM Configuration 
+https://github.com/knizxt/BoardGmae-Deployment-Doc
 ## Description
 
 **Board Game Database Full-Stack Web Application.**
